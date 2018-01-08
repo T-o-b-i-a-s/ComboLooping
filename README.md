@@ -5,4 +5,4 @@ After playing around with https://github.com/monkey-r/ruffy and tools from https
 
 Everybody is welcome to contribute to the documentation andimprove it by modifying or updating it.
 
-Start at the Wiki
+Start at https://github.com/T-o-b-i-a-s/ComboLooping/wiki
